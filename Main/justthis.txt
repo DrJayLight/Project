@@ -1,2 +1,3 @@
 This is just some text
 In the testing branch
+#After add operation it is now in the staging area
